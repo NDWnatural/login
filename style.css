@@ -23,7 +23,7 @@ text-transform: uppercase;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-weight: 800;
 }
-.box input[type ="text"],.box input[type ="password"]{
+#username,#password{
     border: 0;
     background: none;
     display: block;
