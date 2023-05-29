@@ -42,7 +42,7 @@ font-weight: 800;
     width: 280px;
     border-color: #9f2ecc;
 
-.box input[type = "submit"]{
+.box input[type = "btn-link"]{
     text-decoration: none;
     border: 0;
     background: none;
@@ -58,7 +58,7 @@ font-weight: 800;
     transition: 0.25s;  
     cursor: pointer;
 }
-.box input[type = "submit"]:hover{
+.box input[type = "btn-link"]:hover{
     background: #fc2600;
 }
 
