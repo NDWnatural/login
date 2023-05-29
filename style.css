@@ -38,7 +38,7 @@ font-weight: 800;
     transition: 0.25s;
 }
 #username:focus,#password:focus{
-    transform:scale(280px);
+    transform:scale(1:25);
     border-color: #ae00ff;
 }
 
