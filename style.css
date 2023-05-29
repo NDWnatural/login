@@ -37,11 +37,9 @@ font-weight: 800;
     border-radius: 24px;
     transition: 0.25s;
 }
-
-#username:focus,
-#password:focus{
-    transform: scale(1.5);
-    border-color: #ae00ff;
+.box input[type="text"]:focus,.box input[type ="password"]:focus{
+width: 280vw;
+border-color: #2acc71;
 }
 
 .btn-link{
