@@ -41,6 +41,7 @@ font-weight: 800;
 #username:focus,
 #password:focus{
     transform: scale(1.5);
+    border-color: #ae00ff;
 }
 
 .btn-link{
