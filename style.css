@@ -40,8 +40,7 @@ font-weight: 800;
 
 #username:focus,
 #password:focus{
-    width: 280px;
-    border-color: #ae00ff;
+    transform: scale(1.1);
 }
 
 .btn-link{
