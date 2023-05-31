@@ -13,7 +13,8 @@ body{
     transform: translate(-50%,-50%);
     background: #191919;
     text-align: center;
-
+    justify-content: flex;
+    align-items: center;
 }
 .box h1{
 color: #fc4d17;
