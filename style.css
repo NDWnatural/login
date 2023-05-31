@@ -14,7 +14,7 @@ body{
     background: #191919;
     text-align: center;
     justify-content: flex;
-    align-items: center;
+    align-items: flex;
 }
 .box h1{
 color: #fc4d17;
