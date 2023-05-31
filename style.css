@@ -51,7 +51,7 @@ font-weight: 500;
     border-radius: 24px;
     transition: 0.25s;  
     cursor: pointer;
-    width
+    width: 40px
 }
 .box input[type = "btn-link"]:hover{
     background: #2ecc71;
